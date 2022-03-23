@@ -4,7 +4,7 @@ tanzu-unjson
 Various tanzu components / controllers / pods produce logs in a json format that is hard
 to process as a human reader.
 
-This simple commandline utility processed and prints out the log entries in a more
+This simple commandline utility processes and prints out the log entries in a more
 'human friendly' format.
 
 ## Installation
